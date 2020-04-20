@@ -1,8 +1,8 @@
-package Exercise6;
+package Homework.HWExercise1;
 
 import java.util.*;
 
-public class Difference {
+public class SymmetricDifference {
     public static HashSet<String> sweetFruits;
     public static HashSet<String> sourFruits;
     public static HashSet<String> differenceOfFruits;

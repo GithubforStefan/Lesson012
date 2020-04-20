@@ -1,3 +1,5 @@
+package Exercise3;
+
 import java.util.*;
 public class Exercise3 {
     public static void main(String[] args) {
@@ -9,12 +11,8 @@ public class Exercise3 {
         /*for (Iterator<String>iterator=fruits.iterator();iterator.hasNext();){
             System.out.println(iterator.next());
             */
-         for (String item :fruits){
-             System.out.println(item);
+        for (String item : fruits) {
+            System.out.println(item);
         }
     }
-
-
-
-    }//Main
-
+}
